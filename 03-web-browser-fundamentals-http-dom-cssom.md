@@ -45,6 +45,7 @@ flowchart TD
     A --> D["Display the result"]
 ```
 
+
 ### Main parts of an HTTP request
 
   ----------------------------------------------------------------------------------
@@ -760,3 +761,5 @@ flowchart TD
 **HTTP delivers the content; HTML parsing builds the DOM; CSS parsing
 builds the CSSOM; and the browser uses the DOM and CSSOM, together with
 other information, to render the page.**
+
+**Note:** For additional details and a more detailed explanation, refer to my blog: [How the Browser Renders a Webpage: From URL to Pixels](https://medium.com/tech-learn-share/how-the-browser-renders-a-webpage-from-url-to-pixels-24a27c815538).
