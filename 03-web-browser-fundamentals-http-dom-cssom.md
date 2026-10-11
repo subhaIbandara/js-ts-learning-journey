@@ -763,3 +763,4 @@ builds the CSSOM; and the browser uses the DOM and CSSOM, together with
 other information, to render the page.**
 
 > **Note:** For a more detailed explanation, refer to my blog: [How the Browser Renders a Webpage — From URL to Pixels](https://medium.com/tech-learn-share/how-the-browser-renders-a-webpage-from-url-to-pixels-24a27c815538).
+>> **Note:** This is an interesting YouTube video that makes these concepts easier to understand: [How Browsers Render Webpages: From URL to Pixels](https://youtu.be/wqqbIg7JrfU).
